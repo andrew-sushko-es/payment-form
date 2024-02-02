@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.label {
+    display: inline-block;
+    color: var(--secondary-text-color);
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+.required {
+    color: var(--error-color);
+}
+.error {
+    color: var(--error-color);
+    margin: 0;
+}

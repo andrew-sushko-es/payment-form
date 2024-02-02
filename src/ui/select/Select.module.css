@@ -1,0 +1,6 @@
+.select {
+    height: 40px;
+}
+.select input {
+    height: 40px !important;
+}
